@@ -1,0 +1,14 @@
+POST https://html.duckduckgo.com/html/
+Content-Type: text/html; charset=UTF-8
+
+{
+    "q":"lmao",
+    "s":"29",
+    "nextParams":"",
+    "v":"l",
+    "o":"json",
+    "dc":"30",
+    "api":"d.js",
+    "vqd":"4-275591936860339798722491641360541690903",
+    "kl":"wt-wt",
+}
